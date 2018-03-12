@@ -8,11 +8,9 @@ Feel free to add and extend this list
 
 ##### API Frameworks:
 
-- ​	[Loopback](http://loopback.io/getting-started/)
+- ​	[Loopback](http://loopback.io/getting-started/) framework to create REST APIs
 
 #### NPM Packages:
 
 ##### Logging/Monitoring Tools:
 
-- [tracer](https://www.npmjs.com/package/tracer) A lightweight and customizable logging library 
-- ​
