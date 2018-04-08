@@ -16,3 +16,9 @@ Feel free to add and extend this list
 - [tracer](https://www.npmjs.com/package/tracer) lightweight and customizable logging library 
 
 
+#### SQL ORMs
+
+- [knex](https://github.com/tgriesser/knex) flexible query builder
+- [bookshelf](https://github.com/bookshelf/bookshelf) ORM built on knex
+- [waterline](https://github.com/balderdashy/waterline) Sails.js default ORM
+- [sequelize](https://github.com/sequelize/sequelize) the de facto SQL ORM for node
